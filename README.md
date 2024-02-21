@@ -1,4 +1,4 @@
-# Airline Customer Satisfaction Analysis
+# Airline Customer Satisfaction
 Running an airline company is extremely challenging due to stringent government approval processes and involves huge initial investments. To assist both new and existing players in the airline industry to improve customer experiences, we conducted an analysis of the Airline Passenger Satisfaction Dataset. This dataset contains approximately 104k customer satisfaction ratings on various aspects of the flight, including food, seat comfort, legroom, onboard Wi-Fi, and more.
 
 ## Project Overview
