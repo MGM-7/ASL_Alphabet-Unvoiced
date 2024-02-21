@@ -9,8 +9,3 @@ Hypothesis Testing: We conducted hypothesis tests such as u-test and ks-test to 
 Model Development: We developed and compared multiple models to classify passenger satisfaction levels based on all available data in the dataset. The models we implemented included Linear Regression with Lasso and Ridge, logistic regression, random forest, and ADA boost. This allowed us to evaluate different approaches and select the most suitable model for our analysis.
 
 Collaboration and Insights: Throughout the project, we collaborated as a team of 2 persons to ensure a comprehensive and insightful analysis. By leveraging our collective expertise, we aimed to provide valuable insights into airline customer satisfaction, which can contribute to improving customer experiences for both new and existing airline companies.
-
-## Results and Conclusions
-Our analysis of the Airline Passenger Satisfaction Dataset provided valuable insights into customer satisfaction levels in the airline industry. By employing various statistical tests and developing predictive models, we identified factors that significantly impact customer satisfaction and accurately classified satisfaction levels based on available data.
-
-We believe that our findings and recommendations have the potential to significantly improve customer experiences for both new and existing airline companies. We encourage you to explore the detailed analysis and leverage the provided code and insights for further research and application.
